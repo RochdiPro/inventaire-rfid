@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jan 31 16:22:30 CET 2022
+1.base=D\:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex

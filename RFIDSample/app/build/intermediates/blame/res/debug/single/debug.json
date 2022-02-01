@@ -1,0 +1,1622 @@
+[
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_close_connection.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_close_connection.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chercher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_chercher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_selectall_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_connecter_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_connecter_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_close_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_close_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_open_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_open_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_open_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_open_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_inventory_row.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\layout\\item_inventory_row.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chercher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chercher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_off_mtrl.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_deconnecter_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_deconnecter_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_open_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_open_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_deconnecter_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_deconnecter_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_open_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_open_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_share_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_connecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_connecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_mode_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_mode_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chercher_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_chercher_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_open.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_open.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_deconnecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_deconnecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_close_connection.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_close_connection.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_open_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_open_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_exporter_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_exporter_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_exporter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_exporter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_deconnecter.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_deconnecter.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exporter_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_exporter_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_open_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_open_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_deconnecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_deconnecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_exporter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_exporter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_open.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_open.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_close_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_close_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_copy_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_close_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_close_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_rfid_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_close_rfid_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_connecter.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_connecter.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_exporter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_exporter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_delete.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_close_connection.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_close_connection.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_open.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_open.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_mode_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_mode_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_cut_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_close_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_close_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_delete.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_delete_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_exporter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_exporter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_connecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_connecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_delete_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_open.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_open.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_close_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_close_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_mode_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_mode_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_connecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_connecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_delete_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_close_connection_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_close_connection_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_open.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_open.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_mode.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_mode.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_close_connection.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_close_connection.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_close_connection_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_close_connection_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_close_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_mode_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_mode_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_deconnecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_deconnecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chercher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chercher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_exporter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_exporter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_connecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_connecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_close_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_close_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_connection_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_close_connection_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_rfid.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_rfid.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_delete_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_delete_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_close_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_close_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_close_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_close_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rfid_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_rfid_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_connecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_connecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chercher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chercher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_paste_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_delete_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_on_mtrl.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_close_connection_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_close_connection_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_exporter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exporter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_deconnecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_deconnecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_deconnecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_deconnecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_connecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_connecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_connecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_connecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chercher.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chercher.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_deconnecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_deconnecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_deconnecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_deconnecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_close_rfid_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_close_rfid_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chercher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chercher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_exporter.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_exporter.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_mode.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_mode.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chercher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_chercher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_exporter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_exporter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_deconnecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_deconnecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_search.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\layout\\activity_device_search.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_exporter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_exporter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_close_rfid.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_close_rfid.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_delete_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_close_connection.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_close_connection.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_deconnecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_deconnecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_close_connection_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_close_connection_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_exporter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_exporter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_delete.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chercher_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chercher_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_rfid_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_rfid_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_connecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_connecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_mode.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_mode.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_connecter_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_connecter_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_connecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_connecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_mode_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_mode_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_mode.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_mode.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_mode.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_mode.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_deconnecter_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_deconnecter_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_close_connection.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close_connection.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_rfid_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-mdpi\\ic_rfid_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mode_foreground.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\ic_mode_foreground.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chercher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chercher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_mode_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_mode_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_connecter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_connecter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chercher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_chercher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_open.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_open.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_delete_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_delete.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chercher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chercher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_exporter.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_exporter.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_close_connection_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_close_connection_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_stroke.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\drawable\\button_stroke.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_delete.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_close_connection_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close_connection_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_close_rfid.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_close_rfid.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chercher.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-hdpi\\ic_chercher.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_open_round.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_open_round.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_mode.xml.flat",
+        "source": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_mode.xml"
+    },
+    {
+        "merged": "D:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\8a3f5557448c7187542040b8429575ae\\res\\drawable\\abc_btn_colored_material.xml"
+    }
+]

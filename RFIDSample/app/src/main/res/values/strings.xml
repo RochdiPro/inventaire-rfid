@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RFID Sample</string>
+
+    <string name="string_splash_main_name">RFID Sample</string>
+    <string name="string_splash_sub_name"></string>
+    <string name="string_splash_company_name">"POINT MOBILE Co.,LTD"</string>
+
+    <string name="string_device_search_permission_denied">Permission Denied</string>
+    <string name="string_device_search_cancel">Scan job has been canceled.</string>
+    <string name="string_rfid_stop">Please Stop is RFID.</string>
+</resources>

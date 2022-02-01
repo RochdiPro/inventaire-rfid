@@ -1,0 +1,7 @@
+#Mon Jan 31 16:22:30 CET 2022
+base.0=D\:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\2021 bureau\\android\\rfid project pm85\\RFIDSample\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

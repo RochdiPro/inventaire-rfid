@@ -1,0 +1,2 @@
+# Referenced at D:\2021 bureau\android\rfid project pm85\RFIDSample\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:16
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
